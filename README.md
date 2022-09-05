@@ -1,2 +1,2 @@
 # AccomodationPricePrediction
-Prediction of flat price using Machine Learning
+Prediction flat prices using Machine Learning
